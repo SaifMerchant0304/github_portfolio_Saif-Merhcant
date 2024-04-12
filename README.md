@@ -72,7 +72,7 @@
 > 
 > Grades(GPA) : 4.77
 > 
-> E-portfolio(https://eportfolio.mygreatlearning.com/saif-merchant)
+> [E-portfolio](https://eportfolio.mygreatlearning.com/saif-merchant)
 
 
 
@@ -166,7 +166,7 @@
 > 
 > • Skills & Tools Covered : TensorFlow, Keras, OpenCV, Siamese Networks, Triplet loss, CNN
 >
-> _Project Link_ :
+> [Project Link]()
 
 > **Statistical Natural Language Processing**
 > 
@@ -185,7 +185,7 @@
 > • Skills & Tools Covered : RNN, Text pre-processing, LSTM, Classification, TensorFlow, Word
 > embedding
 >
-> _Project Link_ :
+> [Project Link]()
 
 
 > **Implementing a Image classification neural network to classify Street House View**
@@ -204,7 +204,7 @@
 > 
 > • Skills & Tools Covered : Neural Networks, Deep Learning, Keras, Image Recognition
 >
-> _Project Link_ :
+> [Project Link]()
 
 > **Online retail Orders Analysis**
 > 
@@ -218,7 +218,7 @@
 > 
 > • Skills & Tools Covered : Joins, Sub queries, SQL clause statement conditions, MYSQL workbench
 >
-> _Project Link_ :
+> [Project Link]()
 
 > **Feature Engineering & Model Tuning**
 > 
@@ -233,7 +233,7 @@
 > 
 > • Skills & Tools Covered ;Supervised Learning, PCA, Feature Engineering, Model Tuning , Grid Search
 >
-> _Project Link_ :
+> [Project Link]()
 
 > **Classifying silhouettes of vehicles**
 > 
@@ -245,7 +245,7 @@
 > 
 > • Skills & Tools Covered ; Support Vector Machines, Principal Component Analysis, Classification
 >
->  _Project Link_ :
+>  [Project Link]()
 
 > **Ensemble Techniques**
 > 
@@ -265,7 +265,7 @@
 > 
 > • Skills & Tools Covered; EDA, Logistic regression, Decision Trees, Random forest, boosting
 >
-> _Project Link_ :
+> [Project Link]()
 
 > **Supervised Learning**
 > 
@@ -282,7 +282,7 @@
 > 
 > • Skills & Tools Covered ; Logistic Regression, Naive Bayes, KNN, Classification, Python
 >
-> _Project Link_ :
+> [Project Link]()
 
 > **Data Preprocessing/Sanity Checks/EDA Techniques/Statistical**
 > **Analysis/Multivariate Analysis**
@@ -301,7 +301,7 @@
 > 
 > • Performed Statistical Operations and further Analysis
 >
-> _Project Link_ :
+> [Project Link]()
 
 > **Data Visualization using Tableau (Dashboard creation)**
 > 
@@ -311,7 +311,7 @@
 > 
 > • Treemap Visualization for Airbnb Data: Providing a visually intuitive treemap representation for easy comprehension of key metrics and trends.
 >
-> _Project Link_ :
+> [Project Link]()
 
 **CERTIFICATES**
 > • Python For Everybody(Getting started with
@@ -319,41 +319,41 @@
 > 
 _(University of Michigan)_
 > 
-> Credectials(https://coursera.org/share/b7207fd1f2559420f7c437651352591f)
+> [credentials](https://coursera.org/share/b7207fd1f2559420f7c437651352591f)
 
 
 > • Fundamentals of Visualization with Tableau
 > 
 > _(University of California, Davis)_
 >
-> Credectials(https://coursera.org/share/3cf9f7e1a06cc496be990059863ed02e)
+> [credentials](https://coursera.org/share/3cf9f7e1a06cc496be990059863ed02e)
 
 
 > • Crash Course on Python- Google
 > 
 > _(Google)_
 >
-> Credectials(https://coursera.org/share/b68f1c2b6167babe03dfc1be796ef13b)
+> [credentials](https://coursera.org/share/b68f1c2b6167babe03dfc1be796ef13b)
 
 
 > • Data Data Everywhere-Google
 > 
 > _(Google)_
 >
-> Credectials(https://coursera.org/share/e734ca5aa9493ace64a57c5bec15ea48)
+> [credentials](https://coursera.org/share/e734ca5aa9493ace64a57c5bec15ea48)
 
 
 > • Data analysis using Excel
 > 
 > _(Rice University)_
 >
-> Credectials(https://coursera.org/share/2fb847f1dc5386bebdb692c88e7a314c)
+> [credentials](https://coursera.org/share/2fb847f1dc5386bebdb692c88e7a314c)
 
 > Python for Data Science
 >
 > _Great Learning_
 >
-> Credectials(https://olympus1.mygreatlearning.com/course_certificate/ZBIOOPRH)
+> [credentials](https://olympus1.mygreatlearning.com/course_certificate/ZBIOOPRH)
 
 **Soft Skills**
 > • Communication Skills
