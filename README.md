@@ -233,7 +233,7 @@
 > 
 > • Skills & Tools Covered ;Supervised Learning, PCA, Feature Engineering, Model Tuning , Grid Search
 >
-> [Project Link]()
+> [Project Link](https://github.com/SaifMerchant0304/Feature-Engineering-Model-Tuning)
 
 > **Classifying silhouettes of vehicles**
 > 
