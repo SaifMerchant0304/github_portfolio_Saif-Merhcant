@@ -301,7 +301,43 @@
 > 
 > • Performed Statistical Operations and further Analysis
 >
-> [Project Link]()
+> [Project Link](https://github.com/SaifMerchant0304/Data-Preprocessing-Sanity-Checks-EDA-Techniques-Statistical-Analysis-and-Multivariate-Analysis)
+ 
+> **Applied Statistics Project**
+>
+> _Part 1: Answering Industry Problems through Statistical Inferences_
+> 
+> * Identify industry problems and gather relevant data.
+> 
+> * Plot distributions and visualize data using histograms, box plots, etc.
+>   
+> * Formulate hypotheses and conduct hypothesis testing using t-tests, ANOVA, etc.
+>   
+> * Interpret results to address industry problems effectively.
+>   
+> _Part 2: Analyzing Past Tournament Information for Investment Decisions_
+> 
+> * Collect past tournament data including team performance and investment outcomes.
+>   
+> * Visualize trends and patterns using techniques like time series analysis and scatter plots.
+>   
+> * Apply statistical methods such as regression analysis to understand the relationship between performance and investment outcomes.
+>   
+> * Assess risks associated with investing in different teams and develop an investment strategy accordingly.
+>   
+> _Part 3: Analyzing Startup Battlefield Participants_
+> 
+> * Gather data on Startup Battlefield participants including team characteristics, funding rounds, and success/failure outcomes.
+>   
+> * Conduct descriptive analysis to understand startup characteristics.
+>   
+> * Compare successful and failed startups to identify common traits or patterns.
+>   
+> * Build predictive models to identify factors contributing to startup success or failure.
+>   
+> * Provide recommendations based on the analysis for aspiring entrepreneurs and investors.
+>
+>   [Project Link](https://github.com/SaifMerchant0304/Applied-Statistics-Project)  
 
 > **Data Visualization using Tableau (Dashboard creation)**
 > 
@@ -311,7 +347,7 @@
 > 
 > • Treemap Visualization for Airbnb Data: Providing a visually intuitive treemap representation for easy comprehension of key metrics and trends.
 >
-> [Project Link]()
+> [Project Link](https://public.tableau.com/app/profile/saif.merchant/viz/AirBnBFullProject_16578810581730/Dashboard1?publish=yes)
 
 **CERTIFICATES**
 > • Python For Everybody(Getting started with
