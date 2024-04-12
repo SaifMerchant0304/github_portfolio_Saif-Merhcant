@@ -166,7 +166,7 @@
 > 
 > • Skills & Tools Covered : TensorFlow, Keras, OpenCV, Siamese Networks, Triplet loss, CNN
 >
-> [Project Link]()
+> [Project Link](https://github.com/SaifMerchant0304/Computer-Vision)
 
 > **Statistical Natural Language Processing**
 > 
