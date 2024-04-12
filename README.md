@@ -185,7 +185,7 @@
 > • Skills & Tools Covered : RNN, Text pre-processing, LSTM, Classification, TensorFlow, Word
 > embedding
 >
-> [Project Link]()
+> [Project Link](https://github.com/SaifMerchant0304/Natural-Language-Processing-NLP-)
 
 
 > **Implementing a Image classification neural network to classify Street House View**
