@@ -282,7 +282,7 @@
 > 
 > • Skills & Tools Covered ; Logistic Regression, Naive Bayes, KNN, Classification, Python
 >
-> [Project Link]()
+> [Project Link](https://github.com/SaifMerchant0304/Supervised-Learning)
 
 > **Data Preprocessing/Sanity Checks/EDA Techniques/Statistical**
 > **Analysis/Multivariate Analysis**
