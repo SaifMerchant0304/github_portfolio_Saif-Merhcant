@@ -84,6 +84,294 @@
 > 
 > Grades(GPA) : 3.35
 
+**LIBRARIES**
+> • NumPy
+> 
+> • Scipy
+> 
+> • Pandas
+> 
+> • Scikit-learn
+> 
+> • Matplotlib
+> 
+> • Seaborn
+> 
+> • Plotly
+> 
+> • TensorFlow
+> 
+> • Keras, OpenCV, Scikit-Image,
+> Python Pillow
+> 
+> • NLTK, Spacy
 
-**Data Analytical Projects Experience**
+**Expertise**
+> • Advanced Python
+> 
+> • Mathematics
+> 
+> • Advanced Excel
+> 
+> • Structured Query Language (My-SQL)
+> 
+> • Tableau-Data Viz
+> 
+> • Data Cleaning
+> 
+> • Data Preprocessing
+> 
+> • Data Visualization
+> 
+> • ML Model Development
+> 
+> • Bagging-Boosting Techniques
+> 
+> • Model Deployment
+> 
+> • Data Collection
+> 
+> • Computer Vision
+> 
+> • Natural Language Processing
+> 
+> • Artificial Neural Networks(ANN)
+> 
+> • Deep Learning Frameworks
+>(TensorFlow, PyTorch)
 
+
+
+
+**DATA ANALYTICAL PROJECTS EXPERIENCE**
+> **Face Recognition**
+> 
+> _Course:Computer Vision (C.V)_
+> 
+> • Face recognition deals with Computer Vision a discipline of Artificial Intelligence and uses techniques
+> of image processing and deep learning.
+> 
+> • The objective of this project is to build a face recognition system, which includes building a face
+> detector to locate the position of a face in an image and a face identification model to recognize
+> whose face it is by matching it to the existing database of faces.
+> 
+> • The success of a face recognition system heavily relies on the quality and diversity of the dataset
+> used for training. Data collection involves gathering a large number of images containing faces.
+> These images should cover various demographics, poses, expressions, and lighting conditions to
+> ensure the model's robustness.
+> 
+> • In summary, building a face recognition system involves a combination of image processing, deep
+> learning, data collection, model training, and deployment techniques to create a robust and reliable
+> solution for identifying individuals from facial images.
+> 
+> • Skills & Tools Covered : TensorFlow, Keras, OpenCV, Siamese Networks, Triplet loss, CNN
+>
+> _Project Link_ :
+
+> **Statistical Natural Language Processing**
+> 
+> _Course:Natural Language Processing (NLP)_
+> 
+> • This project delivers 2 sub projects based on natural language processing and supervised learning
+> classifier techniques.
+> 
+> • Part 1 Implementing a NLP based text classifier for a digital marketing company which can use input
+> text parameters to determine the category based on blog’s literature from the corpus of numerous
+> blogs curated and maintained.
+> 
+> • Part 2 Employing NLP text classifiers to curate and build a semi-rule based chat bot automation to be
+> used as a technical support entity.
+> 
+> • Skills & Tools Covered : RNN, Text pre-processing, LSTM, Classification, TensorFlow, Word
+> embedding
+>
+> _Project Link_ :
+
+
+> **Implementing a Image classification neural network to classify Street House View**
+> **Numbers**
+> 
+> _Course: ArtificialNeural Networks(ANN)_
+> 
+> • SVHN is a real-world image dataset for developing object recognition algorithms with a requirement
+> on data formatting but comes from a significantly harder, unsolved, real-world problem (recognizing
+> digits and numbers in natural scene images).
+> 
+> • SVHN is obtained from house numbers in Google Street View images.
+> 
+> • The objective of the project was to learn how to implement a simple image classification pipeline
+> based on the k-Nearest Neighbor and a deep neural network.
+> 
+> • Skills & Tools Covered : Neural Networks, Deep Learning, Keras, Image Recognition
+>
+> _Project Link_ :
+
+> **Online retail Orders Analysis**
+> 
+> _Course:Structured query language(SQL)_
+> 
+> • This project is based on the order management functionality of an online retail store in which you
+> are provided with the “orders” database and you are asked some queries related to it.
+> 
+> • Answers to these queries will help the company in making data-driven decisions that will impact the
+> overall growth of the online retail store.
+> 
+> • Skills & Tools Covered : Joins, Sub queries, SQL clause statement conditions, MYSQL workbench
+>
+> _Project Link_ :
+
+> **Feature Engineering & Model Tuning**
+> 
+> _Course:Featurization, Model Selection & Tuning_
+> 
+> • The project was accomplished by employing supervised learning, ensemble modeling, and unsupervised learning
+> techniques to build and train a prediction model to identify Pass/Fail yield of a particular process entity for a
+> semiconductor manufacturing company.
+> 
+> • This project helps to determine key factors contributing to yield excursions downstream in the process and will
+> enable an increase in process throughput, decreased time to learn and reduce per-unit production costs.
+> 
+> • Skills & Tools Covered ;Supervised Learning, PCA, Feature Engineering, Model Tuning , Grid Search
+>
+> _Project Link_ :
+
+> **Classifying silhouettes of vehicles**
+> 
+> _Course:Unsupervised Learning_
+> 
+> • Classified vehicles into different types based on silhouettes which may be viewed from many angles.
+> 
+> • Used PCA in order to reduce dimensionality and SVM for classification.
+> 
+> • Skills & Tools Covered ; Support Vector Machines, Principal Component Analysis, Classification
+>
+>  _Project Link_ :
+
+> **Ensemble Techniques**
+> 
+> • Data cleaning and preprocessing
+> 
+> • Executing various EDA Visualizations.
+> 
+> • For determining the multiple ideal hyperparameters for each model, used Grid Search/Cross Validation.
+> 
+> • Making use of Decision Tree Classifier to create decision trees.
+> 
+> • Making use of Random Forest Classifier to create Random Forests.
+> 
+> • Making use of different Ensemble approaches, such as Bagging and Boosting (AdaBoost and Gradient Boost).
+> 
+> • Comparing every model to determine which one best fits our data.
+> 
+> • Skills & Tools Covered; EDA, Logistic regression, Decision Trees, Random forest, boosting
+>
+> _Project Link_ :
+
+> **Supervised Learning**
+> 
+> • Cleaning, pre-processing, performing univariate, bivariate, and multivariate visualizations;
+> 
+> • Constructing straightforward models utilizing linear and logistic regression models
+> 
+> • Accurate predictions were made using kNN/SVM Classifiers.
+> 
+> • To get the ideal values for k-Nearest Neighbors (kNN) and Support Vector Machine (SVM), Grid Search/Cross
+> Validation was used.
+> 
+> • Contrast the model that fits our data the best.
+> 
+> • Skills & Tools Covered ; Logistic Regression, Naive Bayes, KNN, Classification, Python
+>
+> _Project Link_ :
+
+> **Data Preprocessing/Sanity Checks/EDA Techniques/Statistical**
+> **Analysis/Multivariate Analysis**
+> 
+> _In the two different data sets that make up my project, I completed the following tasks:_
+>
+> • Conducted the requisite sanity tests
+> 
+> • Handled with the missing data
+> 
+> • Dealt with the potential outliers
+> 
+> • Performed Uni-variate, Bi-variate, Multivariate Analysis
+>
+> • Drawn conclusion based on the analysis
+> 
+> • Performed Statistical Operations and further Analysis
+>
+> _Project Link_ :
+
+> **Data Visualization using Tableau (Dashboard creation)**
+> 
+> • Average Price Analysis by Zipcode: Unveiling insights into pricing dynamics across zip code regions for targeted strategies.
+> 
+> • Bed Type Availability with City-wise Average Monthly Pricing: Revealing bed type availability and city-wise pricing insights for strategic decisions.
+> 
+> • Treemap Visualization for Airbnb Data: Providing a visually intuitive treemap representation for easy comprehension of key metrics and trends.
+>
+> _Project Link_ :
+
+**CERTIFICATES**
+> • Python For Everybody(Getting started with
+> Python)
+> 
+_(University of Michigan)_
+> 
+> Credectials :  https://coursera.org/share/b7207fd1f2559420f7c437651352591f
+
+
+> • Fundamentals of Visualization with Tableau
+> 
+> _(University of California, Davis)_
+>
+> Credectials :  https://coursera.org/share/3cf9f7e1a06cc496be990059863ed02e
+
+
+> • Crash Course on Python- Google
+> 
+> _(Google)_
+>
+> Credectials :  https://coursera.org/share/b68f1c2b6167babe03dfc1be796ef13b
+
+
+> • Data Data Everywhere-Google
+> 
+> _(Google)_
+>
+> Credectials :  https://coursera.org/share/e734ca5aa9493ace64a57c5bec15ea48
+
+
+> • Data analysis using Excel
+> 
+> _(Rice University)_
+>
+> Credectials :  https://coursera.org/share/2fb847f1dc5386bebdb692c88e7a314c
+
+> Python for Data Science
+>
+> _Great Learning_
+>
+> Credectials :  https://olympus1.mygreatlearning.com/course_certificate/ZBIOOPRH
+
+**Soft Skills**
+> • Communication Skills
+> 
+> • Problem-Solving Skills
+> 
+> • Critical Thinking
+> 
+> • Adaptability
+> 
+> • Creativity
+> 
+> • Time Management
+> 
+> • Attention to Detail
+> 
+> • Teamwork
+>
+> • Resilience
+> 
+> • Ethical Conduct
