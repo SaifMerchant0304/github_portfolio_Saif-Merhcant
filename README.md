@@ -144,6 +144,49 @@
 
 
 **DATA ANALYTICAL PROJECTS EXPERIENCE**
+
+
+> **Deep Learning-Based Car Detection CAPSTONE PROJECT:**
+> 
+> - **Domain:** Automotive Surveillance
+> - **Context:** Employing computer vision for automated surveillance and triggering appropriate actions based on detected events from images.
+> - **Dataset:** 
+>   - Contains 16,185 images of 196 car classes.
+>   - Split into 8,144 training images and 8,041 testing images.
+>   - Each class denotes Make, Model, Year (e.g., 2012 Tesla Model S).
+>   - Data includes images and annotations with bounding box regions.
+> - **Reference:** 
+>   - "3D Object Representations for Fine-Grained Categorisation" by Krause et al. at ICCV 2013.
+>   - Original dataset link: [Stanford Car Dataset](https://www.kaggle.com/jutrera/stanford-car-dataset-by-classes-folder)
+> 
+> **Project Objectives:**
+> 
+> - **Milestone 1:**
+>   - **Input:** Context and Dataset
+>   - **Process:**
+>     - Import data.
+>     - Map images to classes and annotations.
+>     - Display images with bounding boxes.
+>     - Design, train, and test basic CNN models for classification.
+>     - Interim report.
+>   - **Submission:** Interim report, Jupyter Notebook with Milestone-1 steps.
+> 
+> - **Milestone 2:**
+>   - **Input:** Preprocessed output from Milestone-1
+>   - **Process:**
+>     - Fine-tune CNN models for classification.
+>     - Design, train, and test RCNN & hybrids for object detection.
+>     - Pickle the model for future use.
+>     - Final Report.
+>   - **Submission:** Final report, Jupyter Notebook with Milestone-1 and Milestone-2 steps.
+> 
+> - **Milestone 3:**
+>   - **Process:**
+>     - Design clickable UI-based interface for image browsing, input, and outputting class and bounding boxes/masks.
+>    
+>   [Project Link](https://github.com/SaifMerchant0304/Capstone-Project---Car-Detection-C.V-)
+   
+      
 > **Face Recognition**
 > 
 > _Course:Computer Vision (C.V)_
