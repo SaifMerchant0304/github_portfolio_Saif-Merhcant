@@ -204,7 +204,7 @@
 > 
 > • Skills & Tools Covered : Neural Networks, Deep Learning, Keras, Image Recognition
 >
-> [Project Link]()
+> [Project Link](https://github.com/SaifMerchant0304/Artificial-Neural-Networks)
 
 > **Online retail Orders Analysis**
 > 
