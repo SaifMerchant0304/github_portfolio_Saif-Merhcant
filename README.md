@@ -72,7 +72,7 @@
 > 
 > Grades(GPA) : 4.77
 > 
-> E-portfolio : https://eportfolio.mygreatlearning.com/saif-merchant
+> E-portfolio : (https://eportfolio.mygreatlearning.com/saif-merchant)
 
 
 
@@ -319,41 +319,41 @@
 > 
 _(University of Michigan)_
 > 
-> Credectials :  https://coursera.org/share/b7207fd1f2559420f7c437651352591f
+> Credectials :  (https://coursera.org/share/b7207fd1f2559420f7c437651352591f)
 
 
 > • Fundamentals of Visualization with Tableau
 > 
 > _(University of California, Davis)_
 >
-> Credectials :  https://coursera.org/share/3cf9f7e1a06cc496be990059863ed02e
+> Credectials :  (https://coursera.org/share/3cf9f7e1a06cc496be990059863ed02e)
 
 
 > • Crash Course on Python- Google
 > 
 > _(Google)_
 >
-> Credectials :  https://coursera.org/share/b68f1c2b6167babe03dfc1be796ef13b
+> Credectials :  (https://coursera.org/share/b68f1c2b6167babe03dfc1be796ef13b)
 
 
 > • Data Data Everywhere-Google
 > 
 > _(Google)_
 >
-> Credectials :  https://coursera.org/share/e734ca5aa9493ace64a57c5bec15ea48
+> Credectials :  (https://coursera.org/share/e734ca5aa9493ace64a57c5bec15ea48)
 
 
 > • Data analysis using Excel
 > 
 > _(Rice University)_
 >
-> Credectials :  https://coursera.org/share/2fb847f1dc5386bebdb692c88e7a314c
+> Credectials :  (https://coursera.org/share/2fb847f1dc5386bebdb692c88e7a314c)
 
 > Python for Data Science
 >
 > _Great Learning_
 >
-> Credectials :  https://olympus1.mygreatlearning.com/course_certificate/ZBIOOPRH
+> Credectials :  (https://olympus1.mygreatlearning.com/course_certificate/ZBIOOPRH)
 
 **Soft Skills**
 > • Communication Skills
