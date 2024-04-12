@@ -265,7 +265,7 @@
 > 
 > • Skills & Tools Covered; EDA, Logistic regression, Decision Trees, Random forest, boosting
 >
-> [Project Link]()
+> [Project Link](https://github.com/SaifMerchant0304/Ensemble-Techniques)
 
 > **Supervised Learning**
 > 
