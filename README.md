@@ -430,7 +430,7 @@ _(University of Michigan)_
 
 > Python for Data Science
 >
-> _Great Learning_
+> _(Great Learning)_
 >
 > [credentials](https://olympus1.mygreatlearning.com/course_certificate/ZBIOOPRH)
 
