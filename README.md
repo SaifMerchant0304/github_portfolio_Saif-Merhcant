@@ -261,7 +261,7 @@
 > 
 > • Skills & Tools Covered : Joins, Sub queries, SQL clause statement conditions, MYSQL workbench
 >
-> [Project Link]()
+> [Project Link](https://github.com/SaifMerchant0304/Online-Retail-Orders-Analysis-MySQL-Project)
 
 > **Feature Engineering & Model Tuning**
 > 
